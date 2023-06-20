@@ -12,7 +12,7 @@
     "node": ">=20"
   },
   "scripts": {
-    "test": "node --test --test-reporter=spec --test-reporter-destination=test-coverage.txt --experimental-test-coverage",
+    "test": "node --test --test-reporter=spec --test-reporter-destination=test-coverage.json --experimental-test-coverage",
     "test-spec": "node --test --test-reporter spec",
     "test-coverage": "node --test --experimental-test-coverage"
   },
