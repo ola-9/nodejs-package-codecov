@@ -1,0 +1,17 @@
+[32m✔ half [90m(1.045708ms)[39m[39m
+[34mℹ tests 1[39m
+[34mℹ suites 0[39m
+[34mℹ pass 1[39m
+[34mℹ fail 0[39m
+[34mℹ cancelled 0[39m
+[34mℹ skipped 0[39m
+[34mℹ todo 0[39m
+[34mℹ duration_ms 143.9665[39m
+[34mℹ start of coverage report
+ℹ file | line % | branch % | funcs % | uncovered lines
+ℹ __tests__/half.test.js | [32m100.00[34m | [32m100.00[34m | [32m100.00[34m | 
+ℹ index.js | [32m100.00[34m | [32m100.00[34m | [32m100.00[34m | 
+ℹ src/half.js | [32m100.00[34m | [32m100.00[34m | 50.00 | 
+ℹ all files | [32m100.00[34m | [32m100.00[34m | 66.67 |
+ℹ end of coverage report
+[39m
